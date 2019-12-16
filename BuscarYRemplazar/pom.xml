@@ -6,7 +6,7 @@
   <artifactId>BuscarYRemplazar</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
-  <exec.mainClass>src.main.java.dad.javafx.BuscarYRemplazar.Main</exec.mainClass>
+  <exec.mainClass>dad.javafx.BuscarYRemplazar.Main</exec.mainClass>
 
   <name>BuscarYRemplazar</name>
   <url>http://maven.apache.org</url>
